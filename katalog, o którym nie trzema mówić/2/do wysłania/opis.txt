@@ -1,0 +1,9 @@
+przechowywane informacje książek to nazwa, autor i identyfikator (może być kilka egzemplarzy tej samej)
+przechowywane informacje czytelników to imię, nazwisko i numer karty, będący identyfikatorem
+wolno wypożyczać jednocześnie wiele książek
+oddawane i pożyczane pojedynczo
+brak możliwości zamawiania
+zapisujemy terminy i wypożyczenia i zwrotu, nawet jeśli są już zwrócone
+normą jest posiadanie kilku egzemplarzy tej samej książki
+brak rozróżnienia wydań
+wielu autorów

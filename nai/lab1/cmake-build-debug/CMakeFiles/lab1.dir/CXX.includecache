@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/windows/desktop/nai/lab1/main.cpp
+iostream
+-
+random
+-
+functional
+-
+vector
+-
+tuple
+-
+

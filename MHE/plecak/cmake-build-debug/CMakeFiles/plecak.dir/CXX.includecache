@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/windows/desktop/MHE/plecak/hill_climb.cpp
+
+Z:/windows/desktop/MHE/plecak/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+functional
+-
+cstdlib
+-
+hill_climb.cpp
+Z:/windows/desktop/MHE/plecak/hill_climb.cpp
+
