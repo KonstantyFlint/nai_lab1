@@ -1,5 +1,0 @@
-raport:
-
-kiedy, przez kogo, kto zatwierdzil testy
-
-pytest
